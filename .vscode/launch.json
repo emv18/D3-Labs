@@ -1,0 +1,21 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "D3 Fundamentals",
+            "file": "/Users/eduardo/Library/CloudStorage/GoogleDrive-0226265@up.edu.mx/My Drive/UP/Ciclos/Sistemas y Gráficas Computacionales/Semestre 9/Materias/Simulación Gráfica/D3-Labs/D3 Fundamentals/index.html"
+        },
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Data Binding",
+            "file": "/Users/eduardo/Library/CloudStorage/GoogleDrive-0226265@up.edu.mx/My Drive/UP/Ciclos/Sistemas y Gráficas Computacionales/Semestre 9/Materias/Simulación Gráfica/D3-Labs/Data Binding/index.html"
+        }
+    ]
+}
