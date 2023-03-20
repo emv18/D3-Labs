@@ -30,4 +30,4 @@ d3.json("data/ages.json").then((data)=> {
 
 }).catch((error) => {
 	console.log(error);
-})
+});
