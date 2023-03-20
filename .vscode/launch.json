@@ -22,9 +22,8 @@
             "type": "chrome",
             "request": "launch",
             "name": "Loading data from file",
-            "file": "/Users/eduardo/Library/CloudStorage/GoogleDrive-0226265@up.edu.mx/My Drive/UP/Ciclos/Sistemas y Gráficas Computacionales/Semestre 9/Materias/Simulación Gráfica/D3-Labs/Loading data from file/index.html",
-            "port": 8080
-        
+            "url":"http://localhost:8080/Loading data from file/index.html",
+            //"file": "/Users/eduardo/Library/CloudStorage/GoogleDrive-0226265@up.edu.mx/My Drive/UP/Ciclos/Sistemas y Gráficas Computacionales/Semestre 9/Materias/Simulación Gráfica/D3-Labs/Loading data from file/index.html"
         },
     ]
 }
