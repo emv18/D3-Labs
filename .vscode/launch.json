@@ -31,5 +31,12 @@
             "name": "Buildings of the world",
             "url":"http://localhost:8080/Buildings of the world/index.html"
         },
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Scales",
+            "url":"http://localhost:8080/Scales/index.html"
+        },
     ]
 }
