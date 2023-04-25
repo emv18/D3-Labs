@@ -38,5 +38,19 @@
             "name": "Scales",
             "url":"http://localhost:8080/Scales/index.html"
         },
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Margins, groups, axes and labels",
+            "url":"http://localhost:8080/Margins, groups, axes and labels/index.html"
+        },
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Brewery",
+            "url":"http://localhost:8080/Brewery/index.html"
+        },
     ]
 }
