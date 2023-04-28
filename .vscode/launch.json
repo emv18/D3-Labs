@@ -52,5 +52,12 @@
             "name": "Brewery",
             "url":"http://localhost:8080/Brewery/index.html"
         },
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Simulating update events",
+            "url":"http://localhost:8080/Simulating update events/index.html"
+        },
     ]
 }
