@@ -59,5 +59,12 @@
             "name": "Simulating update events",
             "url":"http://localhost:8080/Simulating update events/index.html"
         },
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Playing with transitions",
+            "url":"http://localhost:8080/Playing with transitions/index.html"
+        },
     ]
 }
