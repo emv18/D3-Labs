@@ -7,64 +7,64 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "D3 Fundamentals",
-            "file": "/Users/eduardo/Library/CloudStorage/GoogleDrive-0226265@up.edu.mx/My Drive/UP/Ciclos/Sistemas y Gráficas Computacionales/Semestre 9/Materias/Simulación Gráfica/D3-Labs/D3 Fundamentals/index.html"
+            "name": "1 D3 Fundamentals",
+            "file": "http://localhost:8080/1 D3 Fundamentals/index.html"
         },
 
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Data Binding",
-            "file": "/Users/eduardo/Library/CloudStorage/GoogleDrive-0226265@up.edu.mx/My Drive/UP/Ciclos/Sistemas y Gráficas Computacionales/Semestre 9/Materias/Simulación Gráfica/D3-Labs/Data Binding/index.html"
+            "name": "2 Data Binding",
+            "file": "http://localhost:8080/2 Data Binding/index.html"
         },
 
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Loading data from file",
-            "url":"http://localhost:8080/Loading data from file/index.html"
+            "name": "3 Loading data from file",
+            "url":"http://localhost:8080/3 Loading data from file/index.html"
         },
 
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Buildings of the world",
-            "url":"http://localhost:8080/Buildings of the world/index.html"
+            "name": "C1 Buildings of the world",
+            "url":"http://localhost:8080/C1 Buildings of the world/index.html"
         },
 
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Scales",
-            "url":"http://localhost:8080/Scales/index.html"
+            "name": "4 Scales",
+            "url":"http://localhost:8080/4 Scales/index.html"
         },
 
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Margins, groups, axes and labels",
-            "url":"http://localhost:8080/Margins, groups, axes and labels/index.html"
+            "name": "5 Margins, groups, axes and labels",
+            "url":"http://localhost:8080/5 Margins, groups, axes and labels/index.html"
         },
 
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Brewery",
-            "url":"http://localhost:8080/Brewery/index.html"
+            "name": "P1 Brewery",
+            "url":"http://localhost:8080/P1 Brewery/index.html"
         },
 
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Simulating update events",
-            "url":"http://localhost:8080/Simulating update events/index.html"
+            "name": "6 Simulating update events",
+            "url":"http://localhost:8080/6 Simulating update events/index.html"
         },
 
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Playing with transitions",
-            "url":"http://localhost:8080/Playing with transitions/index.html"
+            "name": "7 Playing with transitions",
+            "url":"http://localhost:8080/7 Playing with transitions/index.html"
         },
     ]
 }
