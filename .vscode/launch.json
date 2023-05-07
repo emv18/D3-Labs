@@ -66,5 +66,47 @@
             "name": "7 Playing with transitions",
             "url":"http://localhost:8080/7 Playing with transitions/index.html"
         },
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "P2 WIP (Project Leaf)",
+            "url":"http://localhost:8080/P2 Project Leaf/index.html"
+        },
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "8 WIP (Event Handling)",
+            "url":"http://localhost:8080/8 Event Handling/index.html"
+        },
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "9 Line chart",
+            "url":"http://localhost:8080/9 Line chart/index.html"
+        },
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "10 Area chart",
+            "url":"http://localhost:8080/10 Area chart/index.html"
+        },
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "11 (WIP) Stacked chart",
+            "url":"http://localhost:8080/11 Stacked chart/index.html"
+        },
+
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "12 Pie chart",
+            "url":"http://localhost:8080/12 Pie chart/index.html"
+        }
     ]
 }
