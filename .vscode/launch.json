@@ -71,7 +71,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "P2 WIP (Project Leaf)",
-            "url":"http://localhost:8080/P2 Project Leaf/index.html"
+            "url":"http://localhost:8080/P2 WIP (Project Leaf)/index.html"
         },
 
         {
@@ -98,7 +98,7 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "11 (WIP) Stacked chart",
+            "name": "11 Stacked chart",
             "url":"http://localhost:8080/11 Stacked chart/index.html"
         },
 

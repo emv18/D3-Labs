@@ -115,6 +115,33 @@ d3.csv('data/stacked_area2.csv').then((data) => {
 
     // Create legend
     // TODO: Create a legend showing all the names of every color
+    legend.selectAll('rect')
+    .data(keys)
+    .enter()
+    .append('rect')
+    .attr('x', 0)
+    .attr('y', function(d, i){
+        return i * 18;
+    })
+    .attr('width', 12)
+    .attr('height', 12)
+    .attr('fill', function(d, i){
+        return color(i);
+    });
+
+    legend.selectAll('text')
+    .data(keys)
+    .enter()
+    .append('text')
+    .text(function(d){
+        return d;
+    })
+    .attr('x', 18)
+    .attr('y', function(d, i){
+        return i * 18;
+    })
+    .attr('text-anchor', 'start')
+    .attr('alignment-baseline', 'hanging');
 
 }).catch((error) => {
     console.log(error);
