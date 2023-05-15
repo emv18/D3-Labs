@@ -70,8 +70,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "P2 WIP (Project Leaf)",
-            "url":"http://localhost:8080/P2 WIP (Project Leaf)/index.html"
+            "name": "P2 Project Leaf",
+            "url":"http://localhost:8080/P2 Project Leaf/index.html"
         },
 
         {
