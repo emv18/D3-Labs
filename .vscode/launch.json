@@ -77,7 +77,7 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "8 WIP (Event Handling)",
+            "name": "8 Event Handling",
             "url":"http://localhost:8080/8 Event Handling/index.html"
         },
 
